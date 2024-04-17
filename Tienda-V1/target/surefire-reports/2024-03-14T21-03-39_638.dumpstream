@@ -1,0 +1,5 @@
+# Created at 2024-03-14T21:03:40.088
+Boot Manifest-JAR contains absolute paths in classpath 'E:\Microsoft OneDrive\OneDrive - Universidad Fidélitas\Cursos de Carrera\07 - Desarrollo de Aplicaciones Web y Patrones\03 - Dev\Tienda-V1\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
